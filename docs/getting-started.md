@@ -1,21 +1,15 @@
 ---
 title: Getting started
-date: 2018-09-15 07:42:34
+date: 2018-09-15T07:42:34.000+00:00
 slug: getting-started
+
 ---
+## Qué es Neuronall Network
 
-## What is Jamdocs
+Es un servicio de interconexión. Facilitamos a empresas , freelancers y particulares la estructura y el apoyo necesarios para que desarrollen sus proyectos.
 
-Jamdocs is a documentation theme for Gridsome, built to spin up quick, beautiful and static documentation sites fast without hassle. Since there is no theming system for Gridsome yet, Jamdocs comes with Gridsome, plug-ins and packages as dependencies.
+Lo llamamos acompañamiento tecnológico.
 
-## Local installation
+## De la idea al proyecto
 
-Even though Jamdocs is so simple, you dont really need to set it up localy (you could just fork it on github to edit styles and md-files) - if you want to change it up a bit I recommend setting up localy for a better developer experience.
-
-To set up a new instance of Jamdocs, and start developing just clone the project from Github like, go to the directory and run gridsome:
-
-```bash
-git clone https://github.com/samuelhorn/jamdocs project-name
-cd project-name
-gridsome develop
-```
+Desde un sistema simple para organizar tus servicios privados, hasta el despliegue de un ecommerce de gran volumen, estamos a tu lado. Te acompañamos, guiamos y te damos el soporte en todas las fases .
