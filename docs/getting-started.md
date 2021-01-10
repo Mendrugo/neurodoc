@@ -12,4 +12,4 @@ Lo llamamos acompañamiento tecnológico.
 
 ## De la idea al proyecto
 
-Desde un sistema simple para organizar tus servicios privados, hasta el despliegue de un ecommerce de gran volumen, estamos a tu lado. Te acompañamos, guiamos y te damos el soporte en todas las fases .
+Desde un Campus online para una academia, hasta el despliegue de un ecommerce de gran volumen, estamos a tu lado. Te acompañamos, guiamos y te damos el soporte en todas las fases . Nos movemos entre el mundo Web y el soporte.
